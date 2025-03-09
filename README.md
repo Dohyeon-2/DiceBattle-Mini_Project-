@@ -1,1 +1,1 @@
-# DiceBattle-Mini_Project-
+# DiceBattle-Mini_Project
